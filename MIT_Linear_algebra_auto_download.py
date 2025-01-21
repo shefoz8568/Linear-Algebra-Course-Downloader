@@ -10,6 +10,8 @@ except ImportError:
     from tqdm import tqdm
 
 urls = [
+    'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4',
+    'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4',
     'http://www.archive.org/download/MIT18.06S05_MP4/03.mp4',
     'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4',
     'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4',
